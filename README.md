@@ -29,3 +29,20 @@ Methods.
 And ofc recorded to video while repeating.
 
 ─ Try to sleep six hours.
+
+
+- **Day 3**:
+
+Continue to fast repeat from the beginning. 
+
+While loop.
+
+Range function.
+
+break And continue Expressions
+
+list Comprehension!
+
+And ofc recorded to video while repeating.
+
+─ Algorithm.
