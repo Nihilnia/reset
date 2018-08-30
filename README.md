@@ -46,3 +46,15 @@ list Comprehension!
 And ofc recorded to video while repeating.
 
 ─ Algorithm.
+
+- **Day 4**:
+
+Continue to fast repeat from the beginning.
+
+Long day for hangout,
+
+short day for work.
+
+Fibonacci Sequence!
+
+─ Kill it!
