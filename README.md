@@ -58,3 +58,23 @@ short day for work.
 Fibonacci Sequence!
 
 ─ Kill it!
+
+- **Day 4**:
+
+Continue to fast repeat from the beginning. 
+
+Factorial calculator. 
+
+Perfect number calculator. 
+
+Armstrong number calculator. 
+
+The multiplication table. 
+
+User sum up (so basic). 
+
+Divisible numbers by three (1 to 100).
+
+Enter the functions.
+
+─ ᴛᴏɴɪɢʜᴛ ᴡᴀs ɢᴏᴏᴅ
