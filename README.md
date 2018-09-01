@@ -59,7 +59,7 @@ Fibonacci Sequence!
 
 ─ Kill it!
 
-- **Day 4**:
+- **Day 5**:
 
 Continue to fast repeat from the beginning. 
 
